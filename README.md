@@ -41,12 +41,12 @@ This module is responsible for setting up the database with information from the
         -- find_faculty_in_database.py
         -- find_faculty_in_inventors.py
         -- xmltojsonconvert.py
-    - README.md
-    - requirements.txt
     - sql_queries/
         -- patent_queries.py
     - src/
         -- accuracy_analysis.py
+    - README.md
+    - requirements.txt
    ```
    * database_setup/jsonextraction2002-2004.py - extracts data from json files for the years 2002-2004.
    * database_setup/jsonextraction2005on.py - extracts data from json files for the years 2005-2022.
