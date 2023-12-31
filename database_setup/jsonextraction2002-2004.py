@@ -6,7 +6,7 @@ sqliteConnection = sqlite3.connect('/Users/tanay/Desktop/ResearchWork/PatentGran
 cursor = sqliteConnection.cursor()
 
 # Change files to your file name as per your directory
-with open('/Users/tanay/Downloads/pgb20040316_wk11/pgb20040316.json','r') as json_File :
+with open('/Users/tanay/Desktop/ResearchWork/2004/ipgb20040101.json','r') as json_File :
     load_file = json.load(json_File)
     # count = 0
     for i in range(len(load_file)):

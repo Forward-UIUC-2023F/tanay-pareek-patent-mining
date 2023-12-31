@@ -37,7 +37,7 @@ def read_file(file):
 # f.close()
 
 import glob
-os.chdir("/Users/tanay/Desktop/ResearchWork/2023")
+os.chdir("/Users/tanay/Desktop/ResearchWork/2004")
 count = 0
 for file in glob.glob("*.xml"):
     # print(file)

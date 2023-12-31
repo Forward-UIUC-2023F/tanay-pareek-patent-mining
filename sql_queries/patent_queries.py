@@ -31,7 +31,7 @@ cursor.execute(sql_query_3)
 output_3 = cursor.fetchall()
 print(output_3)
 
-# returns top 3 assignees throughout the world ignoring empty assignees as 1st one
+# returns top 4 assignees throughout the world ignoring empty assignees as 1st one
 sql_query_4 = '''SELECT B731_Name, B731_Address, COUNT(*) AS assignee_count 
                     FROM Assignees 
                     GROUP BY B731_Name 
@@ -41,7 +41,7 @@ cursor.execute(sql_query_4)
 output_4 = cursor.fetchall()
 print(output_4)
 
-# returns top 3 places with highest inventors ignoring empty addresses as 1st one
+# returns top 4 places with highest inventors ignoring empty addresses as 1st one
 sql_query_5 = '''SELECT B721_Inventor_Address, COUNT(*) AS inventor_count 
                     FROM Inventors 
                     GROUP BY B721_Inventor_Address 

@@ -25,7 +25,7 @@ with open("/Users/tanay/Desktop/ResearchWork/UMich_nondup_patent.txt", "w") as f
         file.write(nam + ": " + num + " " + "\n") 
 
 unique_faculty_patents = set()
-with open(file_three, 'r') as input_file:
+with open(file_two, 'r') as input_file:
     while True:
         line = input_file.readline()
         if not line:
@@ -40,7 +40,7 @@ with open("/Users/tanay/Desktop/ResearchWork/UIUC_nondup_patent.txt", "w") as fi
         file.write(nam + ": " + num + " " + "\n") 
 
 unique_faculty_patents = set()
-with open(file_three, 'r') as input_file:
+with open(file_one, 'r') as input_file:
     while True:
         line = input_file.readline()
         if not line:
@@ -137,9 +137,9 @@ names_ucb = count_ucb + 1
 
 # print(names_uiuc, names_umich, names_ucb)
 
-print(pos_ucb_len, names_ucb)
+# print(pos_ucb_len, names_ucb)
 print(pos_uiuc_len, names_uiuc)
-print(pos_umich_len, names_umich)
+# print(pos_umich_len, names_umich)
 
 assert(pos_uiuc_len == names_uiuc)
 
