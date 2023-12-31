@@ -72,6 +72,9 @@ This module is responsible for setting up the database with information from the
 2. Then run python_scripts/find_faculty_in_database.py, editing the paths within the code as required.
 3. Lastly, run src/accuracy_analysis.py, once again editing the paths within the code as required.
 
+## Code Demo Overview
+Google drive link - https://drive.google.com/drive/u/2/folders/1psoHeCSVvQxPqiLeudqyNtMRioi_xkIy
+
 ## Algorithmic Design
 * Step 1: When we run python_scripts/find_faculty_in_inventors.py, all faculty names from the raw data files are extracted.
 * Step 2: When we run python_scripts/find_faculty_in_database.py, all faculty names previously extracted are matched with assignees in database and the final faculty and their corresponding patent document numbers are outputted.
