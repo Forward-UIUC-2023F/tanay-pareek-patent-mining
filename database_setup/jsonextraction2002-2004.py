@@ -1,9 +1,11 @@
 import json
 import sqlite3
 
-sqliteConnection = sqlite3.connect('/Users/tanay/Desktop/ResearchWork/PatentGrantsBibliographyNew.db')
+# Change database name to your database name
+sqliteConnection = sqlite3.connect('/Users/tanay/Desktop/ResearchWork/PatentGrantsBibliography2005on.db')
 cursor = sqliteConnection.cursor()
 
+# Change files to your file name as per your directory
 with open('/Users/tanay/Downloads/pgb20040316_wk11/pgb20040316.json','r') as json_File :
     load_file = json.load(json_File)
     # count = 0

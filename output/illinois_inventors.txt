@@ -1,0 +1,997 @@
+Roy H. Campbell: 08872895 
+Roy H. Campbell: 09116692 
+Kevin Chang: 11636143 
+Klara Nahrstedt: 08872895 
+Josep Torrellas: 07711988 
+Roy H. Campbell: 08872895 
+Roy H. Campbell: 09116692 
+Klara Nahrstedt: 08872895 
+Josep Torrellas: 07711988 
+Gul Agha: 09488545 
+Gul Agha: 09086430 
+Gul Agha: 09970842 
+Marco Caccamo: 10649914 
+Marco Caccamo: 10846251 
+Klara Nahrstedt: 08872895 
+Jean Ponce: 08331615 
+Jean Ponce: 08331615 
+Josep Torrellas: 07711988 
+Gul Agha: 09488545 
+Gul Agha: 09086430 
+Gul Agha: 09970842 
+Marco Caccamo: 10649914 
+Marco Caccamo: 10846251 
+Kevin Chang: 11636143 
+David Forsyth: 09471967 
+David Forsyth: 09471967 
+Carl Gunter: 10685142 
+Jiawei Han: 09165051 
+Haiyun Luo: 08307414 
+Klara Nahrstedt: 08872895 
+Jean Ponce: 08331615 
+Jean Ponce: 08331615 
+Grigore Rosu: 08719796 
+Grigore Rosu: 09792161 
+Josep Torrellas: 07711988 
+ChengXiang Zhai: 08442973 
+Yuanyuan Zhou: 07711988 
+Yuanyuan Zhou: 08533681 
+Gul Agha: 09488545 
+Gul Agha: 09086430 
+Gul Agha: 09970842 
+Marco Caccamo: 10649914 
+Marco Caccamo: 10846251 
+Kevin Chang: 11636143 
+David Forsyth: 09471967 
+David Forsyth: 09471967 
+Carl Gunter: 10685142 
+Jiawei Han: 09165051 
+Haiyun Luo: 08307414 
+Klara Nahrstedt: 08872895 
+Jean Ponce: 08331615 
+Jean Ponce: 08331615 
+Grigore Rosu: 08719796 
+Grigore Rosu: 09792161 
+Josep Torrellas: 07711988 
+ChengXiang Zhai: 08442973 
+Yuanyuan Zhou: 07711988 
+Yuanyuan Zhou: 08533681 
+Gul Agha: 09488545 
+Gul Agha: 09086430 
+Gul Agha: 09970842 
+Marco Caccamo: 10649914 
+Marco Caccamo: 10846251 
+Kevin Chang: 11636143 
+David Forsyth: 09471967 
+David Forsyth: 09471967 
+Carl Gunter: 10685142 
+Jiawei Han: 09165051 
+Haiyun Luo: 08307414 
+Klara Nahrstedt: 08872895 
+Jean Ponce: 08331615 
+Jean Ponce: 08331615 
+Grigore Rosu: 08719796 
+Grigore Rosu: 09792161 
+Saurabh Sinha: 09230063 
+Saurabh Sinha: 09779283 
+Josep Torrellas: 07711988 
+ChengXiang Zhai: 08442973 
+Yuanyuan Zhou: 07711988 
+Yuanyuan Zhou: 08533681 
+Gul Agha: 09488545 
+Gul Agha: 09086430 
+Gul Agha: 09970842 
+Marco Caccamo: 10649914 
+Marco Caccamo: 10846251 
+Kevin Chang: 11636143 
+Weng C. Chew: 07707527 
+David Forsyth: 09471967 
+David Forsyth: 09471967 
+David E. Goldberg: 07047169 
+David E. Goldberg: 07280986 
+David E. Goldberg: 07280986 
+David E. Goldberg: 07904512 
+David E. Goldberg: 07979365 
+David E. Goldberg: 08301390 
+David E. Goldberg: 08131656 
+Carl Gunter: 10685142 
+Jiawei Han: 09165051 
+Wen-Mei Hwu: 11314950 
+Wen-Mei Hwu: 11704486 
+Haiyun Luo: 08307414 
+Klara Nahrstedt: 08872895 
+Constantine Polychronopoulos: 07145913 
+Jean Ponce: 08331615 
+Jean Ponce: 08331615 
+Grigore Rosu: 08719796 
+Grigore Rosu: 09792161 
+William Sanders: 08073655 
+Saurabh Sinha: 09230063 
+Saurabh Sinha: 09779283 
+Josep Torrellas: 07711988 
+Ouri Wolfson: 07016781 
+Ouri Wolfson: 06968271 
+Ouri Wolfson: 06965827 
+Ouri Wolfson: 06895329 
+ChengXiang Zhai: 08442973 
+Yuanyuan Zhou: 07711988 
+Yuanyuan Zhou: 08533681 
+Gul Agha: 09488545 
+Gul Agha: 09086430 
+Gul Agha: 09970842 
+Marco Caccamo: 10649914 
+Marco Caccamo: 10846251 
+Matthew Caesar: 08924560 
+Matthew Caesar: 08924560 
+Matthew Caesar: 08924560 
+Kevin Chang: 11636143 
+David Forsyth: 09471967 
+David Forsyth: 09471967 
+David E. Goldberg: 07047169 
+David E. Goldberg: 07280986 
+David E. Goldberg: 07280986 
+David E. Goldberg: 07904512 
+David E. Goldberg: 07979365 
+David E. Goldberg: 08301390 
+David E. Goldberg: 08131656 
+Jiawei Han: 09165051 
+Wen-Mei Hwu: 11314950 
+Wen-Mei Hwu: 11704486 
+Rakesh Kumar: 08806410 
+Rakesh Kumar: 10866630 
+Rakesh Kumar: 10671774 
+Rakesh Kumar: 11210402 
+Rakesh Kumar: 11210439 
+Rakesh Kumar: 11301030 
+Klara Nahrstedt: 08872895 
+Constantine Polychronopoulos: 07145913 
+Jean Ponce: 08331615 
+Jean Ponce: 08331615 
+Grigore Rosu: 08719796 
+Grigore Rosu: 09792161 
+William Sanders: 08073655 
+Saurabh Sinha: 09230063 
+Saurabh Sinha: 09779283 
+Josep Torrellas: 07711988 
+Ouri Wolfson: 07016781 
+Ouri Wolfson: 06968271 
+Ouri Wolfson: 06965827 
+Ouri Wolfson: 06895329 
+ChengXiang Zhai: 08442973 
+Yuanyuan Zhou: 07711988 
+Yuanyuan Zhou: 08533681 
+Gul Agha: 09488545 
+Gul Agha: 09086430 
+Gul Agha: 09970842 
+Marco Caccamo: 10649914 
+Marco Caccamo: 10846251 
+Matthew Caesar: 08924560 
+Matthew Caesar: 08924560 
+Matthew Caesar: 08924560 
+Kevin Chang: 11636143 
+David Forsyth: 09471967 
+David Forsyth: 09471967 
+Carl Gunter: 10685142 
+Jiawei Han: 09165051 
+Derek Hoiem: 09330500 
+Derek Hoiem: 11288412 
+Klara Nahrstedt: 08872895 
+Grigore Rosu: 08719796 
+Grigore Rosu: 09792161 
+Saurabh Sinha: 09230063 
+Saurabh Sinha: 09779283 
+Josep Torrellas: 07711988 
+ChengXiang Zhai: 08442973 
+David E. Goldberg: 07047169 
+David E. Goldberg: 07280986 
+David E. Goldberg: 07280986 
+David E. Goldberg: 07904512 
+David E. Goldberg: 07979365 
+David E. Goldberg: 08301390 
+David E. Goldberg: 08131656 
+Wen-Mei Hwu: 11314950 
+Wen-Mei Hwu: 11704486 
+Rakesh Kumar: 08806410 
+Rakesh Kumar: 10866630 
+Rakesh Kumar: 10671774 
+Rakesh Kumar: 11210402 
+Rakesh Kumar: 11210439 
+Rakesh Kumar: 11301030 
+Yi Ma: 08406525 
+Constantine Polychronopoulos: 07145913 
+William Sanders: 08073655 
+Ouri Wolfson: 07016781 
+Ouri Wolfson: 06968271 
+Ouri Wolfson: 06965827 
+Ouri Wolfson: 06895329 
+Gul Agha: 09488545 
+Gul Agha: 09086430 
+Gul Agha: 09970842 
+Marco Caccamo: 10649914 
+Marco Caccamo: 10846251 
+Matthew Caesar: 08924560 
+Matthew Caesar: 08924560 
+Matthew Caesar: 08924560 
+Kevin Chang: 11636143 
+David Forsyth: 09471967 
+David Forsyth: 09471967 
+Philip Brighten Godfrey: 09225601 
+Carl Gunter: 10685142 
+Jiawei Han: 09165051 
+Derek Hoiem: 09330500 
+Derek Hoiem: 11288412 
+Klara Nahrstedt: 08872895 
+Grigore Rosu: 08719796 
+Grigore Rosu: 09792161 
+Saurabh Sinha: 09230063 
+Saurabh Sinha: 09779283 
+Josep Torrellas: 07711988 
+ChengXiang Zhai: 08442973 
+Deming Chen: 10546079 
+Deming Chen: 11706163 
+David E. Goldberg: 07047169 
+David E. Goldberg: 07280986 
+David E. Goldberg: 07280986 
+David E. Goldberg: 07904512 
+David E. Goldberg: 07979365 
+David E. Goldberg: 08301390 
+David E. Goldberg: 08131656 
+Wen-Mei Hwu: 11314950 
+Wen-Mei Hwu: 11704486 
+Rakesh Kumar: 08806410 
+Rakesh Kumar: 10866630 
+Rakesh Kumar: 10671774 
+Rakesh Kumar: 11210402 
+Rakesh Kumar: 11210439 
+Rakesh Kumar: 11301030 
+Yi Ma: 08406525 
+Constantine Polychronopoulos: 07145913 
+William Sanders: 08073655 
+Shobha Vasudevan: 09021409 
+Shobha Vasudevan: 09075935 
+Ouri Wolfson: 07016781 
+Ouri Wolfson: 06968271 
+Ouri Wolfson: 06965827 
+Ouri Wolfson: 06895329 
+Gul Agha: 09488545 
+Gul Agha: 09086430 
+Gul Agha: 09970842 
+Marco Caccamo: 10649914 
+Marco Caccamo: 10846251 
+Matthew Caesar: 08924560 
+Matthew Caesar: 08924560 
+Matthew Caesar: 08924560 
+Kevin Chang: 11636143 
+David Forsyth: 09471967 
+David Forsyth: 09471967 
+Philip Brighten Godfrey: 09225601 
+Carl Gunter: 10685142 
+Jiawei Han: 09165051 
+Derek Hoiem: 09330500 
+Derek Hoiem: 11288412 
+Klara Nahrstedt: 08872895 
+Grigore Rosu: 08719796 
+Grigore Rosu: 09792161 
+Saurabh Sinha: 09230063 
+Saurabh Sinha: 09779283 
+Josep Torrellas: 07711988 
+ChengXiang Zhai: 08442973 
+Deming Chen: 10546079 
+Deming Chen: 11706163 
+Wen-Mei Hwu: 11314950 
+Wen-Mei Hwu: 11704486 
+Rakesh Kumar: 08806410 
+Rakesh Kumar: 10866630 
+Rakesh Kumar: 10671774 
+Rakesh Kumar: 11210402 
+Rakesh Kumar: 11210439 
+Rakesh Kumar: 11301030 
+Yi Ma: 08406525 
+Constantine Polychronopoulos: 07145913 
+William Sanders: 08073655 
+Shobha Vasudevan: 09021409 
+Shobha Vasudevan: 09075935 
+Ouri Wolfson: 07016781 
+Ouri Wolfson: 06968271 
+Ouri Wolfson: 06965827 
+Ouri Wolfson: 06895329 
+Gul Agha: 09488545 
+Gul Agha: 09086430 
+Gul Agha: 09970842 
+Marco Caccamo: 10649914 
+Marco Caccamo: 10846251 
+Matthew Caesar: 08924560 
+Matthew Caesar: 08924560 
+Matthew Caesar: 08924560 
+Kevin Chang: 11636143 
+David Forsyth: 09471967 
+David Forsyth: 09471967 
+Philip Brighten Godfrey: 09225601 
+Carl Gunter: 10685142 
+Jiawei Han: 09165051 
+Derek Hoiem: 09330500 
+Derek Hoiem: 11288412 
+Klara Nahrstedt: 08872895 
+Grigore Rosu: 08719796 
+Grigore Rosu: 09792161 
+Saurabh Sinha: 09230063 
+Saurabh Sinha: 09779283 
+Josep Torrellas: 07711988 
+ChengXiang Zhai: 08442973 
+Deming Chen: 10546079 
+Deming Chen: 11706163 
+Yih-Chun Hu: 07934095 
+Yih-Chun Hu: 08230215 
+Yih-Chun Hu: 08230215 
+Yih-Chun Hu: 09461827 
+Wen-Mei Hwu: 11314950 
+Wen-Mei Hwu: 11704486 
+Rakesh Kumar: 08806410 
+Rakesh Kumar: 10866630 
+Rakesh Kumar: 10671774 
+Rakesh Kumar: 11210402 
+Rakesh Kumar: 11210439 
+Rakesh Kumar: 11301030 
+Yi Ma: 08406525 
+Constantine Polychronopoulos: 07145913 
+William Sanders: 08073655 
+Shobha Vasudevan: 09021409 
+Shobha Vasudevan: 09075935 
+Ouri Wolfson: 07016781 
+Ouri Wolfson: 06968271 
+Ouri Wolfson: 06965827 
+Ouri Wolfson: 06895329 
+Gul Agha: 09488545 
+Gul Agha: 09086430 
+Gul Agha: 09970842 
+Marco Caccamo: 10649914 
+Marco Caccamo: 10846251 
+Matthew Caesar: 08924560 
+Matthew Caesar: 08924560 
+Matthew Caesar: 08924560 
+Kevin Chang: 11636143 
+David Forsyth: 09471967 
+David Forsyth: 09471967 
+Philip Brighten Godfrey: 09225601 
+Carl Gunter: 10685142 
+Jiawei Han: 09165051 
+Derek Hoiem: 09330500 
+Derek Hoiem: 11288412 
+Klara Nahrstedt: 08872895 
+Grigore Rosu: 08719796 
+Grigore Rosu: 09792161 
+Saurabh Sinha: 09230063 
+Saurabh Sinha: 09779283 
+Josep Torrellas: 07711988 
+ChengXiang Zhai: 08442973 
+Deming Chen: 10546079 
+Deming Chen: 11706163 
+Yih-Chun Hu: 07934095 
+Yih-Chun Hu: 08230215 
+Yih-Chun Hu: 08230215 
+Yih-Chun Hu: 09461827 
+Wen-Mei Hwu: 11314950 
+Wen-Mei Hwu: 11704486 
+Rakesh Kumar: 08806410 
+Rakesh Kumar: 10866630 
+Rakesh Kumar: 10671774 
+Rakesh Kumar: 11210402 
+Rakesh Kumar: 11210439 
+Rakesh Kumar: 11301030 
+Constantine Polychronopoulos: 07145913 
+William Sanders: 08073655 
+Shobha Vasudevan: 09021409 
+Shobha Vasudevan: 09075935 
+Gul Agha: 09488545 
+Gul Agha: 09086430 
+Gul Agha: 09970842 
+Marco Caccamo: 10649914 
+Marco Caccamo: 10846251 
+Matthew Caesar: 08924560 
+Matthew Caesar: 08924560 
+Matthew Caesar: 08924560 
+Roy H. Campbell: 08872895 
+Roy H. Campbell: 09116692 
+Kevin Chen-Chuan Chang: 07552116 
+Kevin Chen-Chuan Chang: 08117208 
+David Alexander Forsyth: 09852238 
+Jiawei Han: 09165051 
+John C. Hart: 07365744 
+Julia Constanze Hockenmaier: 11132512 
+Julia Constanze Hockenmaier: 11615152 
+Steven M. LaValle: 11410564 
+Klara Nahrstedt: 08872895 
+Grigore Rosu: 08719796 
+Grigore Rosu: 09792161 
+Saurabh Sinha: 09230063 
+Saurabh Sinha: 09779283 
+Josep Torrellas: 07711988 
+ChengXiang Zhai: 08442973 
+Deming Chen: 10546079 
+Deming Chen: 11706163 
+Yih-Chun Hu: 07934095 
+Yih-Chun Hu: 08230215 
+Yih-Chun Hu: 08230215 
+Yih-Chun Hu: 09461827 
+Thomas S. Huang: 07454039 
+Thomas S. Huang: 07454039 
+Thomas S. Huang: 07548637 
+Wen-Mei W. Hwu: 11157275 
+David M. Nicol: 08209738 
+David M. Nicol: 08209738 
+Constantine Polychronopoulos: 07145913 
+William H. Sanders: 08209738 
+William H. Sanders: 08209738 
+Shobha Vasudevan: 09021409 
+Shobha Vasudevan: 09075935 
+Ouri Wolfson: 07016781 
+Ouri Wolfson: 06968271 
+Ouri Wolfson: 06965827 
+Ouri Wolfson: 06895329 
+Gul Agha: 09488545 
+Gul Agha: 09086430 
+Gul Agha: 09970842 
+Marco Caccamo: 10649914 
+Marco Caccamo: 10846251 
+Matthew Caesar: 08924560 
+Matthew Caesar: 08924560 
+Matthew Caesar: 08924560 
+Roy H. Campbell: 08872895 
+Roy H. Campbell: 09116692 
+David Alexander Forsyth: 09852238 
+Jiawei Han: 09165051 
+John C. Hart: 07365744 
+Julia Constanze Hockenmaier: 11132512 
+Julia Constanze Hockenmaier: 11615152 
+Steven M. LaValle: 11410564 
+Klara Nahrstedt: 08872895 
+Grigore Rosu: 08719796 
+Grigore Rosu: 09792161 
+Saurabh Sinha: 09230063 
+Saurabh Sinha: 09779283 
+Josep Torrellas: 07711988 
+ChengXiang Zhai: 08442973 
+Deming Chen: 10546079 
+Deming Chen: 11706163 
+Yih-Chun Hu: 07934095 
+Yih-Chun Hu: 08230215 
+Yih-Chun Hu: 08230215 
+Yih-Chun Hu: 09461827 
+Thomas S. Huang: 07454039 
+Thomas S. Huang: 07454039 
+Thomas S. Huang: 07548637 
+Wen-Mei W. Hwu: 11157275 
+David M. Nicol: 08209738 
+David M. Nicol: 08209738 
+Constantine Polychronopoulos: 07145913 
+Romit Roy Choudhury: 09608848 
+Romit Roy Choudhury: 10128880 
+Romit Roy Choudhury: 10628484 
+Romit Roy Choudhury: 10672416 
+Romit Roy Choudhury: 11264047 
+William H. Sanders: 08209738 
+William H. Sanders: 08209738 
+Shobha Vasudevan: 09021409 
+Shobha Vasudevan: 09075935 
+Ouri Wolfson: 07016781 
+Ouri Wolfson: 06968271 
+Ouri Wolfson: 06965827 
+Ouri Wolfson: 06895329 
+Marco Caccamo: 10649914 
+Marco Caccamo: 10846251 
+Matthew Chapman Caesar: 09225601 
+Roy H. Campbell: 08872895 
+Roy H. Campbell: 09116692 
+Kevin Chen-Chuan Chang: 07552116 
+Kevin Chen-Chuan Chang: 08117208 
+Deming Chen: 10546079 
+Deming Chen: 11706163 
+David Alexander Forsyth: 09852238 
+Carl Gunter: 10685142 
+Jiawei Han: 09165051 
+John C. Hart: 07365744 
+Julia Constanze Hockenmaier: 11132512 
+Julia Constanze Hockenmaier: 11615152 
+Yih-Chun Hu: 07934095 
+Yih-Chun Hu: 08230215 
+Yih-Chun Hu: 08230215 
+Yih-Chun Hu: 09461827 
+Wen-Mei W. Hwu: 11157275 
+Nam Sung Kim: 11256321 
+Nam Sung Kim: 11520724 
+Rakesh Kumar: 08806410 
+Rakesh Kumar: 10866630 
+Rakesh Kumar: 10671774 
+Rakesh Kumar: 11210402 
+Rakesh Kumar: 11210439 
+Rakesh Kumar: 11301030 
+Steven M. LaValle: 11410564 
+Olgica Milenkovic: 10370246 
+Olgica Milenkovic: 11538554 
+Sayan Mitra: 10061876 
+Klara Nahrstedt: 08872895 
+Sanjay Jeram Patel: 08649592 
+Sanjay Jeram Patel: 08649592 
+Sanjay Jeram Patel: 08649592 
+Sanjay Jeram Patel: 08643701 
+Grigore Rosu: 08719796 
+Grigore Rosu: 09792161 
+Romit Roy Choudhury: 09608848 
+Romit Roy Choudhury: 10128880 
+Romit Roy Choudhury: 10628484 
+Romit Roy Choudhury: 10672416 
+Romit Roy Choudhury: 11264047 
+William H. Sanders: 08209738 
+William H. Sanders: 08209738 
+Saurabh Sinha: 09230063 
+Saurabh Sinha: 09779283 
+Josep Torrellas: 07711988 
+Shobha Vasudevan: 09021409 
+Shobha Vasudevan: 09075935 
+Ouri Wolfson: 07016781 
+Ouri Wolfson: 06968271 
+Ouri Wolfson: 06965827 
+Ouri Wolfson: 06895329 
+ChengXiang Zhai: 08442973 
+Marco Caccamo: 10649914 
+Marco Caccamo: 10846251 
+Matthew Caesar: 08924560 
+Matthew Caesar: 08924560 
+Matthew Caesar: 08924560 
+Roy H. Campbell: 08872895 
+Roy H. Campbell: 09116692 
+Kevin Chen-Chuan Chang: 07552116 
+Kevin Chen-Chuan Chang: 08117208 
+Deming Chen: 10546079 
+Deming Chen: 11706163 
+Minh N. Do: 07847719 
+Minh N. Do: 09087229 
+Minh N. Do: 09792676 
+Minh N. Do: 10325360 
+Minh N. Do: 11521044 
+David Alexander Forsyth: 09852238 
+Carl Gunter: 10685142 
+Jiawei Han: 09165051 
+John C. Hart: 07365744 
+Julia Constanze Hockenmaier: 11132512 
+Julia Constanze Hockenmaier: 11615152 
+Yih-Chun Hu: 07934095 
+Yih-Chun Hu: 08230215 
+Yih-Chun Hu: 08230215 
+Yih-Chun Hu: 09461827 
+Jian Huang: 11327886 
+Jian Huang: 11706163 
+Wen-Mei W. Hwu: 11157275 
+Nam Sung Kim: 11256321 
+Nam Sung Kim: 11520724 
+Volodymyr Kindratenko: 07047103 
+Volodymyr Kindratenko: 07162328 
+Volodymyr Kindratenko: 07162328 
+Volodymyr Kindratenko: 07511618 
+Rakesh Kumar: 08806410 
+Rakesh Kumar: 10866630 
+Rakesh Kumar: 10671774 
+Rakesh Kumar: 11210402 
+Rakesh Kumar: 11210439 
+Rakesh Kumar: 11301030 
+Steven M. LaValle: 11410564 
+Bo Li: 11149779 
+Bo Li: 11608914 
+Olgica Milenkovic: 10370246 
+Olgica Milenkovic: 11538554 
+Sayan Mitra: 10061876 
+Klara Nahrstedt: 08872895 
+David M. Nicol: 08209738 
+David M. Nicol: 08209738 
+Sanjay J. Patel: 09530044 
+Sanjay J. Patel: 09087229 
+Sanjay J. Patel: 09792676 
+Grigore Rosu: 08719796 
+Grigore Rosu: 09792161 
+Romit Roy Choudhury: 09608848 
+Romit Roy Choudhury: 10128880 
+Romit Roy Choudhury: 10628484 
+Romit Roy Choudhury: 10672416 
+Romit Roy Choudhury: 11264047 
+William H. Sanders: 08209738 
+William H. Sanders: 08209738 
+Alexander Schwing: 11699239 
+Saurabh Sinha: 09230063 
+Saurabh Sinha: 09779283 
+Josep Torrellas: 07711988 
+Shobha Vasudevan: 09021409 
+Shobha Vasudevan: 09075935 
+Ouri Wolfson: 07016781 
+Ouri Wolfson: 06968271 
+Ouri Wolfson: 06965827 
+Ouri Wolfson: 06895329 
+ChengXiang Zhai: 08442973 
+Marco Caccamo: 10649914 
+Marco Caccamo: 10846251 
+Matthew Caesar: 08924560 
+Matthew Caesar: 08924560 
+Matthew Caesar: 08924560 
+Roy H. Campbell: 08872895 
+Roy H. Campbell: 09116692 
+Kevin Chen-Chuan Chang: 07552116 
+Kevin Chen-Chuan Chang: 08117208 
+Deming Chen: 10546079 
+Deming Chen: 11706163 
+Girish Chowdhary: 11199838 
+Girish Chowdhary: 11703855 
+Minh N. Do: 07847719 
+Minh N. Do: 09087229 
+Minh N. Do: 09792676 
+Minh N. Do: 10325360 
+Minh N. Do: 11521044 
+David Alexander Forsyth: 09852238 
+Carl Gunter: 10685142 
+Jiawei Han: 09165051 
+John C. Hart: 07365744 
+Julia Constanze Hockenmaier: 11132512 
+Julia Constanze Hockenmaier: 11615152 
+Yih-Chun Hu: 07934095 
+Yih-Chun Hu: 08230215 
+Yih-Chun Hu: 08230215 
+Yih-Chun Hu: 09461827 
+Jian Huang: 11327886 
+Jian Huang: 11706163 
+Wen-Mei Hwu: 11314950 
+Wen-Mei Hwu: 11704486 
+Nam Sung Kim: 11256321 
+Nam Sung Kim: 11520724 
+Volodymyr Kindratenko: 07047103 
+Volodymyr Kindratenko: 07162328 
+Volodymyr Kindratenko: 07162328 
+Volodymyr Kindratenko: 07511618 
+Rakesh Kumar: 08806410 
+Rakesh Kumar: 10866630 
+Rakesh Kumar: 10671774 
+Rakesh Kumar: 11210402 
+Rakesh Kumar: 11210439 
+Rakesh Kumar: 11301030 
+Steven M. LaValle: 11410564 
+Bo Li: 11149779 
+Bo Li: 11608914 
+Olgica Milenkovic: 10370246 
+Olgica Milenkovic: 11538554 
+Sayan Mitra: 10061876 
+Klara Nahrstedt: 08872895 
+David M. Nicol: 08209738 
+David M. Nicol: 08209738 
+Sanjay J. Patel: 09530044 
+Sanjay J. Patel: 09087229 
+Sanjay J. Patel: 09792676 
+Grigore Rosu: 08719796 
+Grigore Rosu: 09792161 
+Romit Roy Choudhury: 09608848 
+Romit Roy Choudhury: 10128880 
+Romit Roy Choudhury: 10628484 
+Romit Roy Choudhury: 10672416 
+Romit Roy Choudhury: 11264047 
+William H. Sanders: 08209738 
+William H. Sanders: 08209738 
+Alexander Schwing: 11699239 
+Saurabh Sinha: 09230063 
+Saurabh Sinha: 09779283 
+Josep Torrellas: 07711988 
+Shobha Vasudevan: 09021409 
+Shobha Vasudevan: 09075935 
+Ouri Wolfson: 07016781 
+Ouri Wolfson: 06968271 
+Ouri Wolfson: 06965827 
+Ouri Wolfson: 06895329 
+ChengXiang Zhai: 08442973 
+Marco Caccamo: 10649914 
+Marco Caccamo: 10846251 
+Matthew Caesar: 08924560 
+Matthew Caesar: 08924560 
+Matthew Caesar: 08924560 
+Roy H. Campbell: 08872895 
+Roy H. Campbell: 09116692 
+Kevin Chen-Chuan Chang: 07552116 
+Kevin Chen-Chuan Chang: 08117208 
+Deming Chen: 10546079 
+Deming Chen: 11706163 
+Girish Chowdhary: 11199838 
+Girish Chowdhary: 11703855 
+Minh N. Do: 07847719 
+Minh N. Do: 09087229 
+Minh N. Do: 09792676 
+Minh N. Do: 10325360 
+Minh N. Do: 11521044 
+David Forsyth: 09471967 
+David Forsyth: 09471967 
+Carl Gunter: 10685142 
+Jiawei Han: 09165051 
+John C. Hart: 07365744 
+Julia Constanze Hockenmaier: 11132512 
+Julia Constanze Hockenmaier: 11615152 
+Yih-Chun Hu: 07934095 
+Yih-Chun Hu: 08230215 
+Yih-Chun Hu: 08230215 
+Yih-Chun Hu: 09461827 
+Jian Huang: 11327886 
+Jian Huang: 11706163 
+Wen-Mei Hwu: 11314950 
+Wen-Mei Hwu: 11704486 
+Nam Sung Kim: 11256321 
+Nam Sung Kim: 11520724 
+Volodymyr Kindratenko: 07047103 
+Volodymyr Kindratenko: 07162328 
+Volodymyr Kindratenko: 07162328 
+Volodymyr Kindratenko: 07511618 
+Rakesh Kumar: 08806410 
+Rakesh Kumar: 10866630 
+Rakesh Kumar: 10671774 
+Rakesh Kumar: 11210402 
+Rakesh Kumar: 11210439 
+Rakesh Kumar: 11301030 
+Steven M. LaValle: 11410564 
+Bo Li: 11149779 
+Bo Li: 11608914 
+Olgica Milenkovic: 10370246 
+Olgica Milenkovic: 11538554 
+Sayan Mitra: 10061876 
+Klara Nahrstedt: 08872895 
+David M. Nicol: 08209738 
+David M. Nicol: 08209738 
+Grigore Rosu: 08719796 
+Grigore Rosu: 09792161 
+Romit Roy Choudhury: 09608848 
+Romit Roy Choudhury: 10128880 
+Romit Roy Choudhury: 10628484 
+Romit Roy Choudhury: 10672416 
+Romit Roy Choudhury: 11264047 
+Alexander Schwing: 11699239 
+Saurabh Sinha: 09230063 
+Saurabh Sinha: 09779283 
+Josep Torrellas: 07711988 
+Shobha Vasudevan: 09021409 
+Shobha Vasudevan: 09075935 
+Yang Wang: 07893369 
+Yang Wang: 10119312 
+Yang Wang: 10309136 
+Yang Wang: 10851490 
+Yang Wang: 10876331 
+Yang Wang: 11519125 
+Yang Wang: 11441334 
+Yang Wang: 11661765 
+Yang Wang: 11664093 
+Yang Wang: 11572650 
+Ouri Wolfson: 07016781 
+Ouri Wolfson: 06968271 
+Ouri Wolfson: 06965827 
+Ouri Wolfson: 06895329 
+ChengXiang Zhai: 08442973 
+Suma Bhat: 11314950 
+Suma Bhat: 11704486 
+Matthew Caesar: 08924560 
+Matthew Caesar: 08924560 
+Matthew Caesar: 08924560 
+Roy H. Campbell: 08872895 
+Roy H. Campbell: 09116692 
+Deming Chen: 10546079 
+Deming Chen: 11706163 
+Girish Chowdhary: 11199838 
+Girish Chowdhary: 11703855 
+Minh N. Do: 07847719 
+Minh N. Do: 09087229 
+Minh N. Do: 09792676 
+Minh N. Do: 10325360 
+Minh N. Do: 11521044 
+David Forsyth: 09471967 
+David Forsyth: 09471967 
+Carl Gunter: 10685142 
+Jiawei Han: 09165051 
+John C. Hart: 07365744 
+Julia Constanze Hockenmaier: 11132512 
+Julia Constanze Hockenmaier: 11615152 
+Yih-Chun Hu: 07934095 
+Yih-Chun Hu: 08230215 
+Yih-Chun Hu: 08230215 
+Yih-Chun Hu: 09461827 
+Jian Huang: 11327886 
+Jian Huang: 11706163 
+Wen-Mei Hwu: 11314950 
+Wen-Mei Hwu: 11704486 
+Nam Sung Kim: 11256321 
+Nam Sung Kim: 11520724 
+Volodymyr Kindratenko: 07047103 
+Volodymyr Kindratenko: 07162328 
+Volodymyr Kindratenko: 07162328 
+Volodymyr Kindratenko: 07511618 
+Rakesh Kumar: 08806410 
+Rakesh Kumar: 10866630 
+Rakesh Kumar: 10671774 
+Rakesh Kumar: 11210402 
+Rakesh Kumar: 11210439 
+Rakesh Kumar: 11301030 
+Steven M. LaValle: 11410564 
+Bo Li: 11149779 
+Bo Li: 11608914 
+Olgica Milenkovic: 10370246 
+Olgica Milenkovic: 11538554 
+Sayan Mitra: 10061876 
+Klara Nahrstedt: 08872895 
+David M. Nicol: 08209738 
+David M. Nicol: 08209738 
+Grigore Rosu: 08719796 
+Grigore Rosu: 09792161 
+Romit Roy Choudhury: 09608848 
+Romit Roy Choudhury: 10128880 
+Romit Roy Choudhury: 10628484 
+Romit Roy Choudhury: 10672416 
+Romit Roy Choudhury: 11264047 
+Alexander Schwing: 11699239 
+Saurabh Sinha: 09230063 
+Saurabh Sinha: 09779283 
+Josep Torrellas: 07711988 
+Shobha Vasudevan: 09021409 
+Shobha Vasudevan: 09075935 
+Yang Wang: 07893369 
+Yang Wang: 10119312 
+Yang Wang: 10309136 
+Yang Wang: 10851490 
+Yang Wang: 10876331 
+Yang Wang: 11519125 
+Yang Wang: 11441334 
+Yang Wang: 11661765 
+Yang Wang: 11664093 
+Yang Wang: 11572650 
+Ouri Wolfson: 07016781 
+Ouri Wolfson: 06968271 
+Ouri Wolfson: 06965827 
+Ouri Wolfson: 06895329 
+ChengXiang Zhai: 08442973 
+Suma Bhat: 11314950 
+Suma Bhat: 11704486 
+Matthew Caesar: 08924560 
+Matthew Caesar: 08924560 
+Matthew Caesar: 08924560 
+Roy H. Campbell: 08872895 
+Roy H. Campbell: 09116692 
+Deming Chen: 10546079 
+Deming Chen: 11706163 
+Girish Chowdhary: 11199838 
+Girish Chowdhary: 11703855 
+Minh N. Do: 07847719 
+Minh N. Do: 09087229 
+Minh N. Do: 09792676 
+Minh N. Do: 10325360 
+Minh N. Do: 11521044 
+David Forsyth: 09471967 
+David Forsyth: 09471967 
+Carl Gunter: 10685142 
+Jiawei Han: 09165051 
+John C. Hart: 07365744 
+Julia Constanze Hockenmaier: 11132512 
+Julia Constanze Hockenmaier: 11615152 
+Yih-Chun Hu: 07934095 
+Yih-Chun Hu: 08230215 
+Yih-Chun Hu: 08230215 
+Yih-Chun Hu: 09461827 
+Jian Huang: 11327886 
+Jian Huang: 11706163 
+Wen-Mei Hwu: 11314950 
+Wen-Mei Hwu: 11704486 
+Nam Sung Kim: 11256321 
+Nam Sung Kim: 11520724 
+Volodymyr Kindratenko: 07047103 
+Volodymyr Kindratenko: 07162328 
+Volodymyr Kindratenko: 07162328 
+Volodymyr Kindratenko: 07511618 
+Rakesh Kumar: 08806410 
+Rakesh Kumar: 10866630 
+Rakesh Kumar: 10671774 
+Rakesh Kumar: 11210402 
+Rakesh Kumar: 11210439 
+Rakesh Kumar: 11301030 
+Steven M. LaValle: 11410564 
+Bo Li: 11149779 
+Bo Li: 11608914 
+Olgica Milenkovic: 10370246 
+Olgica Milenkovic: 11538554 
+Sayan Mitra: 10061876 
+Klara Nahrstedt: 08872895 
+David M. Nicol: 08209738 
+David M. Nicol: 08209738 
+Grigore Rosu: 08719796 
+Grigore Rosu: 09792161 
+Romit Roy Choudhury: 09608848 
+Romit Roy Choudhury: 10128880 
+Romit Roy Choudhury: 10628484 
+Romit Roy Choudhury: 10672416 
+Romit Roy Choudhury: 11264047 
+Alexander Schwing: 11699239 
+Saurabh Sinha: 09230063 
+Saurabh Sinha: 09779283 
+Josep Torrellas: 07711988 
+Shobha Vasudevan: 09021409 
+Shobha Vasudevan: 09075935 
+Yang Wang: 07893369 
+Yang Wang: 10119312 
+Yang Wang: 10309136 
+Yang Wang: 10851490 
+Yang Wang: 10876331 
+Yang Wang: 11519125 
+Yang Wang: 11441334 
+Yang Wang: 11661765 
+Yang Wang: 11664093 
+Yang Wang: 11572650 
+Ouri Wolfson: 07016781 
+Ouri Wolfson: 06968271 
+Ouri Wolfson: 06965827 
+Ouri Wolfson: 06895329 
+ChengXiang Zhai: 08442973 
+Suma Bhat: 11314950 
+Suma Bhat: 11704486 
+Matthew Caesar: 08924560 
+Matthew Caesar: 08924560 
+Matthew Caesar: 08924560 
+Roy H. Campbell: 08872895 
+Roy H. Campbell: 09116692 
+Deming Chen: 10546079 
+Deming Chen: 11706163 
+Girish Chowdhary: 11199838 
+Girish Chowdhary: 11703855 
+Minh N. Do: 07847719 
+Minh N. Do: 09087229 
+Minh N. Do: 09792676 
+Minh N. Do: 10325360 
+Minh N. Do: 11521044 
+David Forsyth: 09471967 
+David Forsyth: 09471967 
+Carl Gunter: 10685142 
+Jiawei Han: 09165051 
+John C. Hart: 07365744 
+Yih-Chun Hu: 07934095 
+Yih-Chun Hu: 08230215 
+Yih-Chun Hu: 08230215 
+Yih-Chun Hu: 09461827 
+Jian Huang: 11327886 
+Jian Huang: 11706163 
+Wen-Mei Hwu: 11314950 
+Wen-Mei Hwu: 11704486 
+Nam Sung Kim: 11256321 
+Nam Sung Kim: 11520724 
+Volodymyr Kindratenko: 07047103 
+Volodymyr Kindratenko: 07162328 
+Volodymyr Kindratenko: 07162328 
+Volodymyr Kindratenko: 07511618 
+Rakesh Kumar: 08806410 
+Rakesh Kumar: 10866630 
+Rakesh Kumar: 10671774 
+Rakesh Kumar: 11210402 
+Rakesh Kumar: 11210439 
+Rakesh Kumar: 11301030 
+Steven M. LaValle: 11410564 
+Bo Li: 11149779 
+Bo Li: 11608914 
+Olgica Milenkovic: 10370246 
+Olgica Milenkovic: 11538554 
+Sayan Mitra: 10061876 
+Klara Nahrstedt: 08872895 
+David M. Nicol: 08209738 
+David M. Nicol: 08209738 
+John F. Reid: 06898585 
+Grigore Rosu: 08719796 
+Grigore Rosu: 09792161 
+Romit Roy Choudhury: 09608848 
+Romit Roy Choudhury: 10128880 
+Romit Roy Choudhury: 10628484 
+Romit Roy Choudhury: 10672416 
+Romit Roy Choudhury: 11264047 
+Alexander Schwing: 11699239 
+Josep Torrellas: 07711988 
+Yang Wang: 07893369 
+Yang Wang: 10119312 
+Yang Wang: 10309136 
+Yang Wang: 10851490 
+Yang Wang: 10876331 
+Yang Wang: 11519125 
+Yang Wang: 11441334 
+Yang Wang: 11661765 
+Yang Wang: 11664093 
+Yang Wang: 11572650 
+ChengXiang Zhai: 08442973 

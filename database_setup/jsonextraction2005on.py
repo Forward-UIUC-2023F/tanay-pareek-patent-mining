@@ -1,8 +1,11 @@
 import json
 import sqlite3
 import glob, os
+
+# change directory to your specific directory
 os.chdir("/Users/tanay/Desktop/ResearchWork/2023")
 
+# change database name to your database name
 sqliteConnection = sqlite3.connect('/Users/tanay/Desktop/ResearchWork/PatentGrantsBibliography05on.db')
 cursor = sqliteConnection.cursor()
 
