@@ -1,0 +1,2 @@
+python_Levenshtein==0.23.0
+xmltodict==0.13.0
